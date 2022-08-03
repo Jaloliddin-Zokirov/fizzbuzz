@@ -64,23 +64,11 @@ img {
   border-radius: 10px;
 }
 
-.list{
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  margin: 0 auto 0;
-  padding: 0;
-  list-style-type: none;
-}
-
-.item{
-  margin-bottom: 20px;
-}
-
-.text{
+.js-text{
   margin: 0;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 24px;
   letter-spacing: 3px;
+  text-align: center;
   color: aliceblue;
 }
